@@ -1,0 +1,24 @@
+---
+title: "Week 5 class notes"
+subtitle: "IBM 3202"
+author: "Mikaela Gallardo"
+date: today
+format: 
+    html:
+        toc: true
+        toc-depth: 3
+        toc-locations: right-body
+        number-sections: true
+        code-line-numbers: true
+        cold-fold: false
+        code-link: true
+        embed-resources: true
+execute:
+  freeze: auto
+  warning: false
+  error: true
+---
+
+# Class Overview
+
+# Assignment Deadline Adjustment
